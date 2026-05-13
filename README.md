@@ -85,6 +85,6 @@ I'm **Azix Khan**, a passionate Flutter Developer specialized in building high-p
 
 - **Portfolio**: [azix-khan.github.io](https://azix-khan.github.io)
 - **LinkedIn**: [linkedin.com/in/azixkhan](https://www.linkedin.com/in/azixkhan)
-- **Email**: [Your Email Here] (Optional)
+- **Email**: [EMAIL_ADDRESS] (azixkhan.55@gmailcom)
 
 *Whether it's a new project, a collaboration opportunity, or just a technical chat about Flutter—feel free to reach out!*
