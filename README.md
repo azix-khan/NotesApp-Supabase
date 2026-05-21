@@ -1,6 +1,6 @@
 # Flutter Notes App Using Supabase
 
-A modern, full-stack Notes application built with **Flutter** and **Supabase**. This project demonstrates how to implement a robust authentication flow, real-time database updates, and cloud storage for image attachments..
+A modern, full-stack Notes application built with **Flutter** and **Supabase**. This project demonstrates how to implement a robust authentication flow, real-time database updates, and cloud storage for image attachments.
 
 ## 🚀 Features
 
